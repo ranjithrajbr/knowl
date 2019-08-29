@@ -648,7 +648,7 @@
 /* Background Color */
 
 .gray-bg {
-	background: #f7f7fd;
+	background: #4e4e4e;
 }
 .white-bg {
 	background: #fff;
@@ -658,6 +658,9 @@
 }
 .theme-bg {
 	background: #0f0e4d;
+}
+.theme-cust {
+	background: #4e4e4e;
 }
 .primary-bg {
 	background: #222;
